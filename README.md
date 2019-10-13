@@ -8,7 +8,7 @@
 ︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵︵‿︵
 
 ## Jupyter Notebook
-In the Jupyter Notebook --> **oop_ahorcado** <-- attached in this repository, there is the game source code respectively commented
+In the .py file --> **oop_ahorcado** <-- attached in this repository, there is the game source code respectively commented
 
 ︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵︵‿︵
 
